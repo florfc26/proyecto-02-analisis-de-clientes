@@ -77,3 +77,9 @@ Durante este proyecto practiqué:
 - Creación y configuración de gráficos.
 - Análisis de clientes, productos y provincias.
 - Interpretación de resultados para la toma de decisiones.
+
+Vista previa del dashboard
+
+A continuación se muestra el dashboard desarrollado en Power BI:
+
+<img width="1310" height="751" alt="dashboard_clientes" src="https://github.com/user-attachments/assets/093939ad-e042-4334-9a1d-78f3ec552a3f" />
